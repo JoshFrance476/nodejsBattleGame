@@ -19,6 +19,14 @@ This project implements a simple two-player online board game where players take
 - Socket.IO
 - JavaScript
 
+### The starting view of the board:
+![me](https://github.com/JoshFrance476/nodejsBattleGame/blob/main/Screenshots/Screenshot%201.png)  
+
+### Opposing troops occupying the same tile, both players given the option to initiate battle:
+![me](https://github.com/JoshFrance476/nodejsBattleGame/blob/main/Screenshots/Screenshot%202.png)  
+
+### When moving troops, the available moves are highlighted:
+![me](https://github.com/JoshFrance476/nodejsBattleGame/blob/main/Screenshots/Screenshot%203.png)  
 
 ## How to Run
 - Install dependencies: 'npm install'
